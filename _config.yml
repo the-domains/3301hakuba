@@ -7,10 +7,10 @@ color:
     - '#FFFFFF'
     - '#D5AF5C'
     - '#3B3B3B'
-  brandStrength: 0.6679190802387893
-  lightness: 0.48964600055478513
-  rhythmicContrast: 0.6227487800642848
-  saturation: 0.38001386052928865
+  brandStrength: 0.334459
+  lightness: 0.489646
+  rhythmicContrast: 0.622748
+  saturation: 0.380013
 cta: {}
 layout_spectrum: 0.205368
 name: 3301Hakuba
