@@ -1,29 +1,19 @@
-name: 3301Hakuba
-favicon: null
-layout_spectrum: 0.2040188054088503
-typography_spectrum: 0.4127446375787258
-title: ガレット屋さん　白馬
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
   google: UA-78822783-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#F3CB69'
+    - '#424242'
+    - '#FFFFFF'
+    - '#D5AF5C'
+    - '#3B3B3B'
   brandStrength: 0.6679190802387893
   lightness: 0.48964600055478513
-  saturation: 0.38001386052928865
   rhythmicContrast: 0.6227487800642848
+  saturation: 0.38001386052928865
+cta: {}
+layout_spectrum: 0.205368
+name: 3301Hakuba
+opengraph: {}
 purpose: []
+typography_spectrum: 0.322721
