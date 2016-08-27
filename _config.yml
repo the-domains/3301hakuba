@@ -1,5 +1,4 @@
-analytics:
-  google: UA-78822783-1
+typography_spectrum: 0.322721
 color:
   brandColors:
     - '#F3CB69'
@@ -11,9 +10,11 @@ color:
   lightness: 0.489646
   rhythmicContrast: 0.622748
   saturation: 0.380013
-cta: {}
-layout_spectrum: 0.205368
-name: 3301Hakuba
 opengraph: {}
+layout_spectrum: 0.205368
+analytics:
+  google: UA-78822783-1
+name: 3301Hakuba
+cta: {}
+description: Live the dream
 purpose: []
-typography_spectrum: 0.322721
